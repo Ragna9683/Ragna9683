@@ -30,4 +30,4 @@ I build web pages using HTML, CSS, and JavaScript, with additional experience in
 
 ### 📫 Get in touch
 * **Email:** [gysigeim15@gmail.com](mailto:gysigeim15@gmail.com)
-* **Number:** : +48 696 206 229
+* **Number:**  +48 696 206 229
