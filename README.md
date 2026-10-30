@@ -26,6 +26,15 @@ I build web pages using HTML, CSS, and JavaScript, with additional experience in
   * Rendered restaurant cards dynamically from JavaScript data, with a loading state.
   * **Stack:** HTML, CSS, JavaScript
 
+- **[Studio Wdech Pilates Studio](https://ragna9683.github.io/studio-wdech-pilates/)** *(Concept project)*
+  - Built a modern, elegant one-page website for a pilates studio.
+  - Implemented an interactive weekly class schedule with day tabs, pricing plans, FAQ, and a booking form.
+  - **Stack:** HTML, CSS, JavaScript
+
+- **[Black Razor Barbershop](https://ragna9683.github.io/black-razor-barbershop/)** *(Concept project)*
+  - Created a stylish landing page for a modern men's grooming studio with a dark aesthetic.
+  - Included transparent pricing lists, master portfolio sections, and mobile-responsive UI.
+  - **Stack:** HTML, CSS, JavaScript
 ---
 
 ### 📫 Get in touch
